@@ -3,7 +3,7 @@ import "./index.css"
 import About from "./pages/About"
 import Contact from "./pages/Contact"
 import Home from "./pages/Home"
-import Events from "./pages/events"
+import Events from "./pages/Events"
 
 
 const App=()=>{
