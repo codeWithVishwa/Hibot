@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { AnimatedTextGenerate } from "../components/ui/animated-textgenerate";
-import { AnimatedButton } from "../components/UI/animated-button";
+import { AnimatedTextGenerate } from "../components/UI/Animated-textgenerate";
+import { AnimatedButton } from "../components/UI/Animated-button";
 import { RevealOnScroll } from "./ScrollReveal";
 
 function About() {
